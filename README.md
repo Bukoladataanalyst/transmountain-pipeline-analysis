@@ -31,5 +31,7 @@ Open Canada
 - Export volumes grew faster than domestic consumption.
 - Capacity constraints varied across pipelines.
 
+## Business Impact
+This analysis helps stakeholders understand infrastructure utilization, identify capacity bottlenecks, and assess trade flow patterns during high-demand periods.
 
 
